@@ -18,7 +18,7 @@ Propiedad de:                              Luishi¤o Pericena Ch
 Organizaci¢n registrada:                   
 Id. del producto:                          00330-80000-00000-AA974
 Fecha de instalaci¢n original:             03/08/2018, 14:48:51
-Tiempo de arranque del sistema:            07/11/2018, 19:17:35
+Tiempo de arranque del sistema:            14/11/2018, 8:47:13
 Fabricante del sistema:                    Hewlett-Packard
 Modelo el sistema:                         HP 1000 Notebook PC
 Tipo de sistema:                           x64-based PC
@@ -32,10 +32,10 @@ Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
 Idioma de entrada:                         es;Espa¤ol (tradicional)
 Zona horaria:                              (UTC-04:00) Georgetown, La Paz, Manaos, San Juan
 Cantidad total de memoria f¡sica:          3.989 MB
-Memoria f¡sica disponible:                 1.467 MB
-Memoria virtual: tama¤o m ximo:            7.078 MB
-Memoria virtual: disponible:               3.301 MB
-Memoria virtual: en uso:                   3.777 MB
+Memoria f¡sica disponible:                 1.518 MB
+Memoria virtual: tama¤o m ximo:            6.165 MB
+Memoria virtual: disponible:               2.792 MB
+Memoria virtual: en uso:                   3.373 MB
 Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
 Dominio:                                   WORKGROUP
 Servidor de inicio de sesi¢n:              \\MicrosoftAccount
@@ -56,11 +56,11 @@ Tarjeta(s) de red:                         5 Tarjetas de interfaz de red instala
                                                  DHCP habilitado:    S¡
                                                  Servidor DHCP:      192.168.0.1
                                                  Direcciones IP
-                                                 [01]: 192.168.0.8
+                                                 [01]: 192.168.0.2
                                                  [02]: fe80::4018:27ec:b937:546
                                            [02]: Realtek PCIe FE Family Controller
                                                  Nombre de conexi¢n: Ethernet
-                                                 Estado:             Medios desconectados
+                                                 Estado:             Hardware ausente
                                            [03]: VMware Virtual Ethernet Adapter for VMnet1
                                                  Nombre de conexi¢n: Ethernet 2
                                                  Estado:             Hardware ausente
