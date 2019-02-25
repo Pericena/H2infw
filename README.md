@@ -2,8 +2,9 @@
 Esta desarrollado en bat , usando comandos DDos / cmd.
 Muestra información de configuración detallada sobre una computadora y su sistema operativo, incluida la configuración del sistema operativo, la información de seguridad, la ID del producto y las propiedades del hardware (como RAM, espacio en disco y tarjetas de red).
 https://www.lpericena.tk/2018/10/H2infw.html
-
-'
+![](https://4.bp.blogspot.com/-m1qSYKgmO5Y/W8p6xPNJTNI/AAAAAAAAMhs/SpiaweImZ2wC3aCwAyd8q-QQ2A9rkTlIQCLcBGAs/s1600/Screenshot_6.png)
+### Código
+```
 @echo off
 TITLE H2infw
 MODE con: cols=45 lines=10
@@ -22,7 +23,9 @@ hostname >>H2infw.txt
 systeminfo >>H2infw.txt
 systeminfo %hostname% | find "K">>H2infw.txt
 exit
-'
+```
+
+
 #### Descargar https://github.com/Pericena/H2infw/blob/master/Descargar/H2infw.zip
 
 ### Sigueme en las redes Sociales:
