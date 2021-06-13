@@ -1,7 +1,7 @@
 # H2infw
 Esta desarrollado en bat , usando comandos DDos / cmd.
 Muestra información de configuración detallada sobre una computadora y su sistema operativo, incluida la configuración del sistema operativo, la información de seguridad, la ID del producto y las propiedades del hardware (como RAM, espacio en disco y tarjetas de red).
-https://www.lpericena.tk/2018/10/H2infw.html
+https://lpericena.blogspot.com/2018/10/H2infw.html
 ![](https://4.bp.blogspot.com/-m1qSYKgmO5Y/W8p6xPNJTNI/AAAAAAAAMhs/SpiaweImZ2wC3aCwAyd8q-QQ2A9rkTlIQCLcBGAs/s1600/Screenshot_6.png)
 ### Código
 ```
@@ -27,6 +27,10 @@ exit
 
 
 #### Descargar https://github.com/Pericena/H2infw/blob/master/Descargar/H2infw.zip
+
+### Donación paypal
+https://www.paypal.com/paypalme/lpericena
+
 
 ### Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
